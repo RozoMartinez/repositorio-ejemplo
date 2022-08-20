@@ -7,3 +7,4 @@ precio_T=c+iva
 print('el valor del articulo es:',c,'el valor del iva es:',iva,'el precio total es:',precio_T)
 e = a + b
 print (e)
+print ("agrego texto para ejemplo de repositorio en la nube de github")
